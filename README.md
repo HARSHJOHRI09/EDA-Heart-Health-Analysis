@@ -19,3 +19,5 @@ Insights: Key factors like age, cholesterol, and chest pain type play a major ro
 
 Goal: Identify high-risk patients and improve treatment decisions
 COLLAB LINK : https://colab.research.google.com/drive/1_aFQJTRusL6ZTD39KLkQ2FPhFaWOnuc4?usp=drive_link
+
+DATASET LINK:https: //www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
