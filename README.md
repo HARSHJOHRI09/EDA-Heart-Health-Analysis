@@ -18,3 +18,4 @@ Libraries Used: Pandas, NumPy, Matplotlib, Seaborn
 Insights: Key factors like age, cholesterol, and chest pain type play a major role
 
 Goal: Identify high-risk patients and improve treatment decisions
+COLLAB LINK : https://colab.research.google.com/drive/1_aFQJTRusL6ZTD39KLkQ2FPhFaWOnuc4?usp=drive_link
